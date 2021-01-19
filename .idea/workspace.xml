@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5a0e85-5ff0-4162-bf34-117f6a3fe8a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\develop\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\workspace\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModulesForAggregators" value="false" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1laaDMXtGr1ISmGfzgGLf5MYKgc" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="RunManager" selected="Application.Math">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopQueueTest" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueTest" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Math" />
+        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.LoopQueueTest" />
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.ArrayTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5a0e85-5ff0-4162-bf34-117f6a3fe8a0" name="Default Changelist" comment="" />
+      <created>1607837536354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607837536354</updated>
+      <workItem from="1607837537487" duration="31879000" />
+      <workItem from="1607875907678" duration="1265000" />
+      <workItem from="1607944338111" duration="2638000" />
+      <workItem from="1608035417283" duration="4440000" />
+      <workItem from="1608046384410" duration="1075000" />
+      <workItem from="1608380807648" duration="1063000" />
+      <workItem from="1608395248353" duration="205000" />
+      <workItem from="1608548307801" duration="555000" />
+      <workItem from="1608548875247" duration="6910000" />
+      <workItem from="1609158899474" duration="11000" />
+      <workItem from="1609159292025" duration="1625000" />
+      <workItem from="1609584197105" duration="9583000" />
+      <workItem from="1609680439144" duration="5768000" />
+      <workItem from="1609771540251" duration="843000" />
+      <workItem from="1610102013036" duration="1299000" />
+      <workItem from="1611054801013" duration="8993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="235" key="#Notifications" timestamp="1609592986759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="235" key="#Notifications/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609592986759" />
+    <state x="502" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1607866530284" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1607847739957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1607847739957" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1611056223830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1592.1072@0.0.1536.824" timestamp="1608550149019" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1611056223830" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610102832919" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609771841032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1609771841032" />
+    <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1609595856027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609595856027" />
+    <state width="1478" height="158" key="GridCell.Tab.0.bottom" timestamp="1611059492690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1592.1072@0.0.1536.824" timestamp="1608555982406" />
+    <state width="1478" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1611059492690" />
+    <state width="1478" height="68" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610103312843" />
+    <state width="1478" height="158" key="GridCell.Tab.0.center" timestamp="1611059492690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1592.1072@0.0.1536.824" timestamp="1608555982406" />
+    <state width="1478" height="158" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1611059492690" />
+    <state width="1478" height="68" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610103312842" />
+    <state width="1478" height="158" key="GridCell.Tab.0.left" timestamp="1611059492690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1592.1072@0.0.1536.824" timestamp="1608555982406" />
+    <state width="1478" height="158" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1611059492690" />
+    <state width="1478" height="68" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610103312842" />
+    <state width="1478" height="158" key="GridCell.Tab.0.right" timestamp="1611059492690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1592.1072@0.0.1536.824" timestamp="1608555982406" />
+    <state width="1478" height="158" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1611059492690" />
+    <state width="1478" height="68" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610103312842" />
+    <state width="1478" height="350" key="GridCell.Tab.1.bottom" timestamp="1609686211093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="350" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609686211093" />
+    <state width="1493" height="278" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608047459866" />
+    <state width="1478" height="350" key="GridCell.Tab.1.center" timestamp="1609686211093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="350" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609686211093" />
+    <state width="1493" height="278" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608047459865" />
+    <state width="1478" height="350" key="GridCell.Tab.1.left" timestamp="1609686211093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="350" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609686211093" />
+    <state width="1493" height="278" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608047459864" />
+    <state width="1478" height="350" key="GridCell.Tab.1.right" timestamp="1609686211093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="350" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609686211093" />
+    <state width="1493" height="278" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608047459865" />
+    <state x="18" y="33" width="996" height="710" key="SettingsEditor" timestamp="1608037030537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="18" y="33" width="996" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608037030537" />
+    <state width="498" height="448" key="SwitcherDM" timestamp="1609684336794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="448" key="SwitcherDM/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609684336794" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1609685060537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609685060537" />
+    <state width="1176" height="822" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1608555958405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1176" height="822" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1536.824/1920.0.1592.1072@0.0.1536.824" timestamp="1608555958405" />
+    <state x="292" y="148" width="952" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609589711406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="292" y="148" width="952" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1804.1220@0.0.1536.824" timestamp="1609589711406" />
+    <state x="423" y="145" width="687" height="678" key="search.everywhere.popup" timestamp="1608036917412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="145" width="687" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608036917412" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ThreadTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 19" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/test/java/ArrayTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 20" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/test/java/ArrayTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/QueueTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm$LinkedListTest.ic" NAME="LinkedListTest Coverage Results" MODIFIED="1608555089784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
