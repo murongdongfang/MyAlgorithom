@@ -39,7 +39,8 @@ public class SortingHelper {
         InsertSort.insertSortOptimize(arr);
       }else if ("InsertSortOptimize".equals(className)){
         InsertSort.insertSortOptimize(arr);
-
+      }else if ("MergeSort".equals(className)){
+        MergeSort.sort(arr);
       }
       long endTime = System.nanoTime();
       double time = (endTime - startTime) / 1000000000.0;
