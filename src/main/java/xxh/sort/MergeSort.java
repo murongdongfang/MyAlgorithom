@@ -18,10 +18,11 @@ public class MergeSort {
     sort(arr, 0, arr.length - 1);
   }
   public static <E extends Comparable<E>> void sort(E[] arr, int l, int r){
+    // 如果没有=会出现StackOverflow
     if (l >= r){
       return;
     }
-    int mid = (l + r) / 2;
+    int mid = (l + r) >>> 1;
     sort(arr, l, mid);
     sort(arr, mid+1, r);
     merge(arr, l, mid, r);
@@ -49,6 +50,5 @@ public class MergeSort {
         j++;
       }
     }
-
   }
 }
